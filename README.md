@@ -18,7 +18,7 @@
   
 - 🤔 Seeking opportunities in **AI, data engineering, and cloud solutions**.
   
-- 💬 Ask me about anything, Except Maths 😅
+- 💬 Ask me about anything 😅
   
 - 👨‍💻 Life Hack: Continuously learning new tech 🔥 and applying it to real-world problems 🎉.
   
