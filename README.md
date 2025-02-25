@@ -1,7 +1,7 @@
 # Hello 👋 I'm Sowmya Gannamaneni
 
 <p align="center">
-  <img src="./banner.jpg" alt="Welcome Banner" width="100%">
+  <img src="./background.png" alt="Welcome Banner" width="100%">
 </p>
 
 ## 👨🏻‍💻 About Me:
