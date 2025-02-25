@@ -1,4 +1,4 @@
-# Hello 👋 I'm Rohith Kantipudi
+# Hello 👋 I'm Sowmya Gannamaneni
 
 <p align="center">
   <img src="./banner.jpg" alt="Welcome Banner" width="100%">
